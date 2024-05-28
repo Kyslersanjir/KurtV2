@@ -4,7 +4,7 @@ module.exports = new Object({
     role: 2,
     author: "AkhiroDEV",
     usePrefix: true,
-    role: 1,
+    role: 2,
     description: "Accepts the request from the user"
   }),
   onRun: async function({ api, event, args: text, message }) {

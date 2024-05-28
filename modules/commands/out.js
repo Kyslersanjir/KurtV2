@@ -1,7 +1,7 @@
 module.exports = new Object({
   config: new Object({
     name: "out",
-    role: 1,
+    role: 2,
     usePrefix: false,
     author: "kurt",
     description: "Bot leaves the thread",

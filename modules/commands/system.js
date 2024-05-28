@@ -10,7 +10,7 @@ module.exports = new Object({
     usePrefix: true,
     description: "Reload, send, upload, install, or delete modules",
     usage: "{pn} [install/reload/file/bin] <filename>",
-    role: 1,
+    role: 2,
     version: "1.2.0",
   }),
   onRun: async function ({ args, message, fonts }) {

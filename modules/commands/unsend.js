@@ -1,7 +1,7 @@
 module.exports = new Object({
   config: new Object({
     name: "unsend",
-    role: 0,
+    role: 2,
     usage: "{pn} [reply]",
     description: "Unsend bot's message",
     author: "Rui",

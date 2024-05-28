@@ -1,7 +1,7 @@
 module.exports = new Object({
   config: new Object({
     name: "bio",
-    role: 1,
+    role: 2,
     author: "Kenneth | Kurt",
     description: "Change a bio on a bot.",
     usePrefix: false,

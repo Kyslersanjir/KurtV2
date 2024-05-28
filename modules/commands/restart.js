@@ -3,7 +3,7 @@ module.exports = new Object({
     name: "restart",
     description: "restart lol",
     author: "Rui",
-    role: 1,
+    role: 2,
   }),
 
   onRun: async function ({ message }) {

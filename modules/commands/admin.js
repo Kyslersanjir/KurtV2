@@ -4,7 +4,7 @@ module.exports = new Object({
     description: "admin cmd",
     usage: "{pn} [ add | remove | list ]",
     cooldown: 5,
-    role: 1,
+    role: 2,
   }),
 
   onRun: async ({

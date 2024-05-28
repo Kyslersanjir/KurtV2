@@ -7,7 +7,7 @@ module.exports = {
     name: "announce",
     author: "AkhiroDEV | LiANE | Rui",
     description: "Announce a message to all groups",
-    role: 1,
+    role: 2,
     usage: "announce [ message ]",
   },
   async onRun({ api, event, args }) {

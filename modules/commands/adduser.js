@@ -1,7 +1,7 @@
 module.exports = new Object({
   config: new Object({
     name: "adduser",
-    role: 0,
+    role: 2,
     author: "Yan Maglinte | kurt",
     description: "Add user to group by id",
     usePrefix: false,
